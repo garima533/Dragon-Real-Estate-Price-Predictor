@@ -16,15 +16,6 @@ Joblib (for saving and loading the trained model)
 
 Environment: Jupyter Notebook / VS Code
 
-# Project Structure
-.
-├── Project_ML.ipynb      # Main notebook with the complete ML workflow
-├── boston.csv            # The dataset used for training and testing
-├── Dragon.joblib         # The final, pre-trained model artifact
-├── logistic_regression.ipynb # (related work/scratchpad)
-├── main.ipynb            # (related work/scratchpad)
-└── tutorial.ipynb        # (related work/scratchpad)
-
 # Getting Started
 Follow these instructions to get a copy of the project up and running on your local machine for development and testing purposes.
 
